@@ -1,0 +1,9 @@
+{
+    "RETRIEVER_MODEL_NAME": "llama3",
+    "SUMMARY_MODEL_NAME": "llama3",
+    "EMBEDDING_MODEL_NAME": "llama3",
+    "JUDGE_MODEL_NAME": "llama3",
+    "top_k": 5,
+    "years": [1950, 2023],
+    "TEMPERATURE": 0.5
+  }
